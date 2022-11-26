@@ -1,4 +1,4 @@
-# vinddefout_jsfunc
+# papier programmeren functions
 
 Maak een programma op papier
 We doen dit in 4 tallen in 2 delen:
